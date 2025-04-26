@@ -58,7 +58,7 @@ public class HeaderJar implements BurpExtension{
                    - The reformatting process ensures consistency but does not validate header content or syntax.
                    - Scanner payloads will be overwritten because of the replacing. Due to that you can not audit an insertion point that updated by HeaderJar.
 
-                For any advice or inquiry, feel free to reach out at: example.dev.mail at symbol gmail.com
+                For any advice or inquiry, feel free to reach out at: gokay.shn@gmail.com
                 """;
  // first string to show for UI if it can't find any
         
